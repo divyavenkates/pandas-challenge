@@ -1,1 +1,2 @@
 # pandas-challenge
+As a first task, you've been asked to analyze the district-wide standardized test results. You'll be given access to every student's math and reading scores, as well as various information on the schools they attend. Your task is to aggregate the data to showcase obvious trends in school performance. These trends include district summary, school summary, highest-performing schools, lowest-performing schools, math scores by grade, reading scores by grade, scores by school spending, scores by school size, and scores by school type. 
